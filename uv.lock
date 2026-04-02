@@ -1679,6 +1679,7 @@ wheels = [
 
 [[package]]
 name = "tap-service-titan"
+version = "0.1.0"
 source = { editable = "." }
 dependencies = [
     { name = "backports-httpmethod", marker = "python_full_version < '3.11'" },
